@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9571c1c5e15ac2145b94bed4080586a5, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  pointsPerPlus: 2
+  jumpForce: 300
+  jumpKey: 119
+  feetRadius: 0.1
+  ground:
+    serializedVersion: 2
+    m_Bits: 64
+  slideTime: 1
+  slideKey: 115
+  boxHeight: 4
+  invencibleTime: 10
+  jumpSound: {fileID: 8300000, guid: 523c7753b1aecb84cac20635e09c5798, type: 3}
+  hurtSound: {fileID: 8300000, guid: 3f98ec1ceac18f54e87a0fdb0e0507a7, type: 3}
+  slideSound: {fileID: 8300000, guid: bc37142c54187da449296c3992b3175c, type: 3}
+  runSound: {fileID: 8300000, guid: 5920212965a23144da24961d69f9d32e, type: 3}
+  landSound: {fileID: 8300000, guid: 6d0de54820d189c49972f6c6c2b80f8e, type: 3}
+  starMusic: {fileID: 8300000, guid: 71f6d70136f20bf44a6fbc3ab71291db, type: 3}
