@@ -27,5 +27,5 @@ MonoBehaviour:
   hurtSound: {fileID: 8300000, guid: 3f98ec1ceac18f54e87a0fdb0e0507a7, type: 3}
   slideSound: {fileID: 8300000, guid: bc37142c54187da449296c3992b3175c, type: 3}
   runSound: {fileID: 8300000, guid: 5920212965a23144da24961d69f9d32e, type: 3}
-  landSound: {fileID: 8300000, guid: 6d0de54820d189c49972f6c6c2b80f8e, type: 3}
+  landSound: {fileID: 8300000, guid: 72f98724ec6afa844bee86fc98205ebb, type: 3}
   starMusic: {fileID: 8300000, guid: 71f6d70136f20bf44a6fbc3ab71291db, type: 3}
