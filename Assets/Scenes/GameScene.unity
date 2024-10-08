@@ -5969,7 +5969,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -8.799988, y: -225.33002}
+  m_AnchoredPosition: {x: -8.800049, y: -225.33008}
   m_SizeDelta: {x: -1343.0808, y: -498.0962}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &226959865
@@ -30853,7 +30853,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1183.7269, y: 441.1605}
+  m_SizeDelta: {x: 1462.357, y: 441.1605}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1898330222
 MonoBehaviour:
@@ -30875,7 +30875,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: MAYA HERO RUNNER
+  m_text: DESERT RUN
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2d1094862de91164ca168a654d4e1fd5, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 506d1b2c119d25a47ae97d5fd70a7f4a, type: 2}
